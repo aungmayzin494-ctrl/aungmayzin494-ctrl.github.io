@@ -7,7 +7,7 @@ first_name: 메이
 middle_name: 진
 last_name: 아웅
 contact_note: >
-  이메일 보내시기 바랍니다.
+  이메일 보내시기 바랍니다. mayzinaung834@gmail.com
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
