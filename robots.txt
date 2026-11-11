@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://aungmayzin494-ctrl.github.io/sitemap.xml
