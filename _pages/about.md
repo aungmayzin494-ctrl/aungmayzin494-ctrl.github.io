@@ -5,7 +5,7 @@ permalink: /
 subtitle:  나의 소속 · 연락처 · 한 줄 소개
 profile:
   align: right
-  image: flower.jpg
+  image: flower.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>부산, 대한민국</p>
