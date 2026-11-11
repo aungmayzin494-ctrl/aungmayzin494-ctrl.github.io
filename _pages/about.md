@@ -24,8 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+안녕하세요, 컴퓨터공학을 공부하고 있는 아웅 메이 진입니다.
+open source에 관심이 있고, github을 사용해 웹 만들기을 해 왔습니다.
+이 사이트는 오픈소스소프트웨어 수업에서 Jekyll과 GitHub Pages로 만들었으며,
+앞으로 개발자가 되기 목표를 이루기 위해 공부한 내용과 프로젝트를 기록할 예정입니다.
